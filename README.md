@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @theonejj
-- 👀 I’m interested in Java, Web
-- 🌱 I’m currently learning Elm
+- 👀 I’m interested in Java, infra, embeded
 
 <!---
 theonejj/theonejj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
